@@ -5,4 +5,4 @@ Very simple to use:
 
 ```
 make_password(length=16, chars=True, upper=True, numbers=True, lower=True)
-```
+```# passwordGenerator
